@@ -1,0 +1,12 @@
+# Steps to install SASS (simulated for GitHub-only workflow)
+
+1. Normally, we install Node.js (version 20.16.0) using NVM:
+   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+
+2. Reopen terminal and run:
+   nvm install 20.16.0
+
+3. Then, we install SASS using npm:
+   npm install sass -v 1.63.4
+
+Since I'm using GitHub online only, these steps are noted for documentation.
